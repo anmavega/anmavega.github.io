@@ -3,167 +3,338 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/muziek/</loc>
-    <lastmod>2019-02-14T23:40:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/muziek/my-second-post/</loc>
-    <lastmod>2019-02-14T23:40:46+01:00</lastmod>
+    <loc>/taal/190613-hoelang-het-duurt-voor-je-russisch-kunt/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-14T23:40:46+01:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/artiesten/</loc>
-    <lastmod>2019-02-14T23:39:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-02-14T22:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/muziek/gorki/</loc>
-    <lastmod>2019-02-14T23:39:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/artiesten/gorki/</loc>
-    <lastmod>2019-02-14T23:39:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/taal/simpele-zinnen/</loc>
-    <lastmod>2019-02-14T22:39:35+00:00</lastmod>
+    <loc>/taal/190613-russisch-leren-met-muziek/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/taal/</loc>
-    <lastmod>2019-02-14T22:39:35+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/zinnen/</loc>
-    <lastmod>2019-02-14T22:39:35+00:00</lastmod>
+    <loc>/taal/190612-waarom-russisch/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/onderwerpen/blauwe-schoenen/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/taal/190611-mannelijk-vrouwelijk-onzijdig/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/onderwerpen/eten/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/taal/190526-zinnen-voor-beginners/</loc>
+    <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/onderwerpen/gay/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/taal/190525-zinnen-maken/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taal/190525-zinsconstructies-met-max/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taal/190422-woordenschat/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taal/190421-klanken-plakken/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taal/190420-alfabetmuziek/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taal/190420-cyrillisch/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/over-rusland-1/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taal/190412-abctje/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/artiesten/amatory/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muziek/190412_amatory_eerste/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/artiesten/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/genres/</loc>
-    <lastmod>2019-02-14T22:16:28+00:00</lastmod>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/onderwerpen/kamaz/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/muziek/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/genres/rock/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/artiesten/13-%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B2%D0%B5%D1%81%D0%BD%D1%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190427-13-%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B8%CC%86-%D0%B2%D0%B5%D1%81%D0%BD%D1%8B-zonder-geloof/</loc>
+  </url>
+  
+  <url>
+    <loc>/land-en-volk/20190425-adidas/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/advies/</loc>
+  </url>
+  
+  <url>
+    <loc>/genres/alternative/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/animal-%D0%B4%D0%B6%D0%B0z/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190425-animal-%D0%B4%D0%B6%D0%B0z-drie-strepen/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/centr/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190419_centr-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/compilatie/</loc>
+  </url>
+  
+  <url>
+    <loc>/onderwerpen/cultuur/</loc>
+  </url>
+  
+  <url>
+    <loc>/genres/dance/</loc>
+  </url>
+  
+  <url>
+    <loc>/onderwerpen/design/</loc>
+  </url>
+  
+  <url>
+    <loc>/onderwerpen/documentaire/</loc>
+  </url>
+  
+  <url>
+    <loc>/onderwerpen/foto/</loc>
+  </url>
+  
+  <url>
+    <loc>/land-en-volk/20190425_foto-myakishev/</loc>
+  </url>
+  
+  <url>
+    <loc>/onderwerpen/fun/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/grivina/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190425-grivina-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/guf/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190423-guf-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/genres/hard/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/interview/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/kerry-force/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190427-kerry-force-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/kizaru/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190525-kizaru-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/konstantin-stupin/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190613-konstantin-stupin-toen-ik-stierf/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/kunst/</loc>
+  </url>
+  
+  <url>
+    <loc>/onderwerpen/land/</loc>
   </url>
   
   <url>
     <loc>/land-en-volk/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/letters/</loc>
-    <lastmod>2019-02-14T22:16:28+00:00</lastmod>
+    <loc>/land-en-volk/20190422-niet-in-rusland/</loc>
   </url>
   
   <url>
-    <loc>/genres/metal/</loc>
-    <lastmod>2019-02-14T22:16:28+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/land-en-volk/deneus/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/onderwerpen/neus/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/land-en-volk/20190419-niet-te-begrijpen/</loc>
   </url>
   
   <url>
     <loc>/onderwerpen/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/onderwerpen/vodka/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/tags/poetin/</loc>
   </url>
   
   <url>
-    <loc>/categories/woorden/</loc>
-    <lastmod>2019-02-14T22:16:28+00:00</lastmod>
+    <loc>/land-en-volk/20190420-poetin-3x/</loc>
   </url>
   
   <url>
-    <loc>/taal/zinnen-voor-beginners/</loc>
-    <lastmod>2019-02-14T22:16:28+00:00</lastmod>
+    <loc>/onderwerpen/politiek/</loc>
   </url>
   
   <url>
-    <loc>/land-en-volk/blauwe-schoenen/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/genres/pop/</loc>
   </url>
   
   <url>
-    <loc>/land-en-volk/vodka/</loc>
-    <lastmod>2019-02-14T23:16:28+01:00</lastmod>
+    <loc>/tags/portret/</loc>
   </url>
   
   <url>
-    <loc>/muziek/my-first-post/</loc>
-    <lastmod>2019-02-14T22:16:28+00:00</lastmod>
+    <loc>/tags/po%C3%ABzie/</loc>
   </url>
   
   <url>
-    <loc>/land-en-volk/metstef/</loc>
-    <priority>0</priority>
+    <loc>/genres/punk/</loc>
   </url>
   
   <url>
-    <loc>/categories/alfabet/</loc>
+    <loc>/genres/rap/</loc>
   </url>
   
   <url>
-    <loc>/taal/alfabetmuziek/</loc>
+    <loc>/onderwerpen/reizen/</loc>
   </url>
   
   <url>
-    <loc>/taal/cyrillisch/</loc>
+    <loc>/land-en-volk/20190422-russian-design/</loc>
   </url>
   
   <url>
-    <loc>/categories/gedicht/</loc>
+    <loc>/artiesten/serebro/</loc>
   </url>
   
   <url>
-    <loc>/taal/klanken-plakken/</loc>
+    <loc>/muziek/190613-serebro-3x/</loc>
   </url>
   
   <url>
-    <loc>/land-en-volk/lada/</loc>
+    <loc>/tags/size/</loc>
+  </url>
+  
+  <url>
+    <loc>/land-en-volk/20190412-size-matters/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/slim/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190417_slim-onlangs/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/smex/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190525-smex-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/sport/</loc>
   </url>
   
   <url>
@@ -171,7 +342,67 @@
   </url>
   
   <url>
-    <loc>/taal/woordenschat/</loc>
+    <loc>/artiesten/v%C3%B3lan-wlvs/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190524_vo%CC%81lan-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D0%B1%D0%B8-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190421-%D0%B1%D0%B8-2hipster/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D0%B7%D0%B0%D0%BD%D1%83%D0%B4%D0%B0/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190422-%D0%B7%D0%B0%D0%BD%D1%83%D0%B4%D0%B0-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D0%BA%D0%B0%D1%81%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D1%80%D1%83%D0%B7/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190422-%D0%BA%D0%B0%D1%81%D0%BF%D0%B8%D0%B8%CC%86%D1%81%D0%BA%D0%B8%D0%B8%CC%86-%D0%B3%D1%80%D1%83%D0%B7-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D0%BA%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190525-%D0%BA%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA-3x/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190420-%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-ik-en-je-kat-/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D1%81%D0%BB%D0%BE%D1%82/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190525-%D1%81%D0%BB%D0%BE%D1%82-russische-ziel/</loc>
+  </url>
+  
+  <url>
+    <loc>/artiesten/%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D1%87%D0%BA%D0%B0/</loc>
+  </url>
+  
+  <url>
+    <loc>/muziek/190427-%D1%87%D0%B5%CC%88%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D1%87%D0%BA%D0%B0-monster/</loc>
   </url>
   
 </urlset>
